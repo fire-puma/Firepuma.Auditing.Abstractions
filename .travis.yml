@@ -1,6 +1,6 @@
 env:
   matrix:
-  - VERSION=0.0.1
+  - VERSION=0.0.2
   global:
     secure: djuGDbn2fU1V+vWDoFgI9pxkg9AIRLyCrw+bY9xSW/o1TghnN6H+b9Bxoh465Mp0rBO3fqnPEPExcJpTRpW9jIbAAFva/jVrHeMeV+gnvW39uwU3UFU81siy9x7ZJqPpYNISPrGLvaikNNCsp/irZhM754t2aIgyEa80we3uoFWHM+Ea9AH9yKQd1kRejzk2C611Vxx4nX9X2/px/et9eqPinvf8eBIvC+pw1MTISGTWrhpwJricbm0G6BTm5y9MkVmaGyA/qFnUJVtjQK6VigiDglv7jw9Ivsb/yBcYPg3SNrwWDSTvAwGVF8EsOP+E++/3AAINiJE1DbBYx9ImsErw91EbSyOvicKpXJmwl/NW2YjLsraRN6xOQju7pPUhQDq8QFbXOpejEAWIY0MzhspZaK+QZeHslGeh7wSE3LH+MC76bCbH0XkefYPeXFHMwxrVO+9mYzoBxCE+PlORCfCzo/pe4qI3Iz7l1OrGuLgBII2ie/C1TyIpPH3/e/ljKBDj6GewLZ4Te49fBHe/Z76TwYOLGASd1tXeWnqejF6diep1grnDrwMPuujpQkq0dyRt8QJq4oGnkAKna9/zCYoUroyBy7CQnXvdIfC0ztkD7B2wbIRto2fiE1d7/ZKd0mbtljfO1oKBw0OexyG83vrl4XhAobnRGFX/M/k/G3g=
 
